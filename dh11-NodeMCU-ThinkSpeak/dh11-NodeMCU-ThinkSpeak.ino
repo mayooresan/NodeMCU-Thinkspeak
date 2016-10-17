@@ -7,12 +7,12 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 //stuff for Thingspeak
-const char* myWriteAPIKey = "VTIEKYGJHI1W5J6C";
+const char* myWriteAPIKey = "YOUR-THINKSPEAK-API-KEY";
 const char* thinkSpeakHost = "api.thingspeak.com";
 
 //Wifistuff
-const char* ssid     = "GETOUT";
-const char* password = "puttu@123";
+const char* ssid     = "YOUR-WIFI-SSID";
+const char* password = "YOUR-WIFI-PASSWORD";
 
 
 
